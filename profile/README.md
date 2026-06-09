@@ -12,20 +12,5 @@
    Current repositories in this organization include:                                                                                                                                                  
                                                                                                                                                                                                        
    - **StudyPlanner** – planning and scheduling functionality for StudyOS                                                                                                                               
-   - More repositories will be added over time                                                                                                                                                         
-                                                                                                                                                                                                       
-   ## Purpose                                                                                                                                                                                          
-                                                                                                                                                                                                       
-   This organization is intended to:                                                                                                                                                                   
-                                                                                                                                                                                                       
-   - keep all StudyOS repositories in one place                                                                                                                                                         
-   - make project structure easier to understand                                                                                                                                                       
-   - centralize documentation and collaboration                                                                                                                                                        
-   - support future development across multiple repositories                                                                                                                                           
-                                                                                                                                                                                                       
-   ## Getting Started                                                                                                                                                                                  
-                                                                                                                                                                                                       
-   Each repository contains its own setup instructions, development workflow, and technical documentation.                                                                                             
-                                                                                                                                                                                                       
-   To get started, open the repository you are interested in and follow its README.                                                                                                                    
+   -                                                                                                                                                        
                                                                                                                                                                                                        
