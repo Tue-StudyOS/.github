@@ -12,16 +12,19 @@ study workflows.
 
 | Metric | Current Snapshot |
 | --- | ---: |
-| Public repositories | 3 |
-| Human contributors | 5 |
-| Main branches protected | 2 of 3 |
+| Public repositories | 5 |
+| Human contributors | 9 |
+| Main branches protected | 3 of 5 |
 | Course context | ML-4510 Practical Machine Learning, summer term 2026 |
+| Data refreshed | 2026-06-13 |
 
 ## Repositories
 
 | Repository | Focus |
 | --- | --- |
-| [StudyPlanner](https://github.com/Tue-StudyOS/StudyPlanner) | Planning and scheduling workflows for StudyOS. |
+| [StudyPlanner](https://github.com/Tue-StudyOS/StudyPlanner) | Web and agent-enabled study planning app with course catalog, weekly planner, transcript import, PO progress tracking, and OpenAPI/MCP catalog search. |
+| [StudyOS_Agent](https://github.com/Tue-StudyOS/StudyOS_Agent) | Android and Flutter-based StudyOS agent work for University of Tuebingen study workflows. |
+| [study-os-thesis](https://github.com/Tue-StudyOS/study-os-thesis) | Thesis and lecture matching tool for StudyOS seminar workflows. |
 | [tue-api-wrapper](https://github.com/Tue-StudyOS/tue-api-wrapper) | SDKs, native clients, and apps for University of Tuebingen study systems such as Alma, ILIAS, Moodle, TIMMS, campus data, and student workflows. |
 | [.github](https://github.com/Tue-StudyOS/.github) | Organization profile and shared GitHub-facing metadata. |
 
@@ -31,10 +34,14 @@ StudyOS is built by students and collaborators across the organization:
 
 | Contributor | Repositories |
 | --- | --- |
-| [SebastianBoehler](https://github.com/SebastianBoehler) | tue-api-wrapper |
+| [SebastianBoehler](https://github.com/SebastianBoehler) | .github, StudyOS_Agent, tue-api-wrapper |
 | [Kyotoo-chan](https://github.com/Kyotoo-chan) | .github, StudyPlanner |
-| [lenabinder1001](https://github.com/lenabinder1001) | StudyPlanner |
 | [EmWhyy](https://github.com/EmWhyy) | StudyPlanner |
+| [MertOkur](https://github.com/MertOkur) | StudyOS_Agent |
+| [ValentinJSchmidt](https://github.com/ValentinJSchmidt) | study-os-thesis |
+| [dxmme](https://github.com/dxmme) | study-os-thesis |
+| [lenabinder1001](https://github.com/lenabinder1001) | StudyPlanner |
+| [mxs01](https://github.com/mxs01) | study-os-thesis |
 | [ydankner](https://github.com/ydankner) | StudyPlanner |
 
 ## How We Work
